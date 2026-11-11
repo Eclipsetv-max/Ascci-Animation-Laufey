@@ -1,0 +1,7 @@
+# media and caches stay local: the video and audio belong to their creators
+# and the letter cache is rebuilt by the script from your own copy
+video.mp4
+lover_girl.wav
+lover_girl_frames.npz
+__pycache__/
+lover_girl_*.png
